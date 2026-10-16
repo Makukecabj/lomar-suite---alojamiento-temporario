@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lomar-suite---alojamiento-temporario.vercel.app/sitemap.xml
